@@ -41,9 +41,9 @@
 #pragma GCC optimize (3)
 
 // If you want you can define your own set of delays in Configuration.h
-//#define ST7920_DELAY_1 DELAY_NS(0)
-//#define ST7920_DELAY_2 DELAY_NS(0)
-//#define ST7920_DELAY_3 DELAY_NS(0)
+#define ST7920_DELAY_1 DELAY_NS(0)
+#define ST7920_DELAY_2 DELAY_NS(0)
+#define ST7920_DELAY_3 DELAY_NS(0)
 
 #if F_CPU >= 20000000
   #define CPU_ST7920_DELAY_1 DELAY_NS(0)
