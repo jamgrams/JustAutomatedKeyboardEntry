@@ -7,7 +7,7 @@ G28 X Y
 
 //Move to power button
 
-//RE-MEASURE! G1 X30 Y40
+//RE-MEASURE! G1 X8 Y50
 
 
 
