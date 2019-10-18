@@ -300,6 +300,85 @@ G4 S1200
 
 
 
+//Use pause command to activate by pressing button
+
+
+//Press mouse
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+
+//Move to Tab
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Tab
+
+//Press 3x
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button x3
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+
+//Move to Tab
+
+//Press 3x
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button x3
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+
 
 
 
