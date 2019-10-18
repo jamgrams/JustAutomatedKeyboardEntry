@@ -294,9 +294,9 @@ M280 P0 s90
 M280 P0 S10
 
 
-//Wait 10 minutes
+//Wait 20 minutes
 
-G4 S600
+G4 S1200
 
 
 
