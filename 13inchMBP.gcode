@@ -378,7 +378,41 @@ M280 P0 S10
 M280 P0 s90
 M280 P0 S10
 
+//Move to Tab
 
+//Press 5x
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button x5
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
 
 
 
