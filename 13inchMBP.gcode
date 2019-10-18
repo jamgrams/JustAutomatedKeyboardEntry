@@ -7,7 +7,7 @@ G28 X Y
 
 //Move to power button
 
-//Measure G1 X30 Y40
+//RE-MEASURE! G1 X30 Y40
 
 
 
@@ -51,9 +51,268 @@ M280 P1 S100
 //Type some random numbers here
 
 
-//Move to arrow button
+//Move to right arrow button
 
-//
+
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to enter
+
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Wait 10 minutes for mac to boot onto drive
+
+G4 S600
+
+//move to down button
+
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Tab
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Space
+
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to up button
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button again
+
+M280 P0 s90
+M280 P0 S10
+
+
+//Move to tab
+
+
+//Press button x6
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button x6
+
+M280 P0 s90
+M280 P0 S10
+
+
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Tab 3x
+
+//Move to Tab
+
+//Press 3x
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Press button x3
+
+M280 P0 s90
+M280 P0 S10
+
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Enter
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Hold Command
+
+M280 P1 S160
+
+
+//Move to "Q"
+
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Release Command 
+
+M280 P1 S100
+
+//Move to "Up"
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+
+//Move to Tab
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+
+
+//Move to Tab
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Tab
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Space
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+//Move to Mouse
+
+//Press down
+
+M280 P0 s90
+
+//Move to second location
+
+//Lift up
+
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+
+/Move mouse again
+
+
+//Press down
+
+M280 P0 s90
+
+//Move to second location
+
+//Lift up
+
+M280 P0 S10
+
+//Press button
+
+M280 P0 s90
+M280 P0 S10
+
+
+//Wait 10 minutes
+
+G4 S600
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
