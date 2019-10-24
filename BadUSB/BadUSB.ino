@@ -10,9 +10,18 @@ void setup() {
 
     Keyboard.begin();
     delay(5000);
+    Keyboard.press(131);//cmd
+    Keyboard.press(32);//space
+    Keyboard.releaseAll();
+    delay(5000);
+    Keyboard.print("terminal");
+    Keyboard.write(176);
+    
+    
+    delay(5000);
     Keyboard.println("killall Dock");
     delay (1000);
-    Keyboard.write(176);
+    Keyboard.write(176);//enter
 
 }
 
